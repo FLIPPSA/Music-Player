@@ -36,7 +36,7 @@ const songs = [
   },
   {
     name: 'Love',
-    displayName: 'L O V E.',
+    displayName: 'L O V E',
     artist: 'Michael Bublé'
   },
   {
